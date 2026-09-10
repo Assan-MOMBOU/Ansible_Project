@@ -1,1 +1,2 @@
-192.168.5.253
+[ubuntu]
+serveur1 ansible_host=192.168.5.253 ansible_user=naim ansible_python_interpreter=/usr/bin/python3.14
